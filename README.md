@@ -5,7 +5,7 @@ The Mamorigami
 queryで指定。  
   
 例: t=byun  
-https://m3020.github.io/mamorigami/?t=byun  
+https://m3020.github.io/mamorigami/?t=exitin  
 
 ### タイプリスト
 * tate
