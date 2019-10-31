@@ -25,7 +25,7 @@ switch (type) {
     case "break":
         entries.push(new Entry('target', 'StoryBoard.breakConsentlate', 'StoryBoard.breakConsentlate'));
         break;
-    case "byun":
+    case "exitin":
         entries.push(new Entry('target', 'StoryBoard.exitIn', 'StoryBoard.exitIn'));
         break;
     case "huge":
